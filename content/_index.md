@@ -19,7 +19,7 @@ Some notes might have preambles stating the [[notes/Assumed audience]] and [[not
 
 Currently I'm regularly coming back to these notes:
 
-- [[The Manager's Toolkit]]
+- [[notes/The Manager's Toolkit]]
 
 ---
 
