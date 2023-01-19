@@ -1,7 +1,7 @@
 ---
 title: "Assumed audience"
 tags:
-- "rough"
+- rough
 ---
 
 
