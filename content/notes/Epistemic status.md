@@ -8,12 +8,3 @@ tags:
 ## Links
 
 [Epistemic statuses are lazy, and that is a good thing | devonzuegel.com](https://devonzuegel.com/post/epistemic-statuses-are-lazy-and-that-is-a-good-thing)
-
-
-
-### Best links
-blah
-
-#### Top quality links
-
-blha
