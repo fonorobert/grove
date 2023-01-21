@@ -1,3 +1,6 @@
+---
+title: "Reading list"
+---
 
 ## Interesting books I might want to read
 
