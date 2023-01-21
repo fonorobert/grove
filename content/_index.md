@@ -18,8 +18,9 @@ Some notes might have preambles stating the [[notes/Assumed audience]] and [[not
 ## Actively tended
 
 Currently I'm regularly coming back to these notes:
-
+ 
 - [[notes/The Manager's Toolkit]]
+- [[notes/Technology only matters when it enables new UX]]
 
 ---
 
