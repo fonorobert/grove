@@ -15,6 +15,8 @@ Can be called a [digital garden](https://maggieappleton.com/garden-history).
 
 Note types/roles/statuses:
 
-- #rough
-- #growing
-- #developed
+- #placeholder - a title, maybe a link to create space where a note will be
+- #rough - stuff thrown together
+- #growing - complete sentences and a coherent arc or structure to the idea
+- #developed - well thought through though questions or unexplored areas might remain
+- #settled - I am fairly confident in the idea and how it's presented

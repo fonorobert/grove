@@ -25,3 +25,6 @@ bitcoin is wire transfers, but distributed. but we do have wire transfers, they 
 
 the point is: the deciding factor in what people use en masse is UX, not technology. technology is only successful when it enables new kinds of UX. 
 
+## Links
+
+[Redecentralization - by Gordon Brander - Subconscious](https://subconscious.substack.com/p/redecentralization)
