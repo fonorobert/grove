@@ -1,7 +1,7 @@
 ---
 title: "Protect your highlights"
 tags:
-	- "placeholder"
+- "placeholder"
 aliases:
 ---
 also embrace your shadows

@@ -1,7 +1,7 @@
 ---
 title: "Start with a toy"
 tags:
-	- "rough"
+- "rough"
 aliases:
 ---
 
