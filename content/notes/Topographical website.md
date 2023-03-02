@@ -1,7 +1,5 @@
 ---
 title: "Topographical website"
-tags:
-- placeholder
 aliases:
 - "topographical"
 ---

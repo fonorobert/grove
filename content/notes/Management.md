@@ -1,8 +1,10 @@
 ---
-title: "The Manager's Toolkit"
-tags:
-- rough
+title: "Management"
 ---
+
+## 80% manager
+
+few simple techniques make most of the difference because of [[notes/The 80-20 Rule]]
 
 ## What are a managers tools?
 

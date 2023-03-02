@@ -1,8 +1,10 @@
 ---
 title: "Good Meetings"
-tags:
-- rough
 ---
+
+- goals
+- agenda
+- notes
 
 What makes a good meeting? The first question should be, why is a good meeting important? What's the purpose of meetings?
 

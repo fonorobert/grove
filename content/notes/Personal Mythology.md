@@ -1,7 +1,5 @@
 ---
 title: "Personal Mythology"
-tags:
-- placeholder
 ---
 
 ## Links

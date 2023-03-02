@@ -1,9 +1,9 @@
 ---
-title: 🪴 The Grove
-enableToc: false
+title: "secondthought notes"
+enableToc: true
 ---
 
-## Welcome to [[notes/The Grove]]!
+## Welcome!
 
 I am Robert Fono and this is a collection of notes on various topics I'm exploring.
 
@@ -11,16 +11,14 @@ This site is [[notes/Topographical website|topographical, not chronological]]. T
 
 ## On evolving notes
 
-Across the site you will find notes marked with various states of development. Some notes are newer, some I only had some vague initial thoughts about. Other notes I might have returned to, added new sources, phrased things better, or had new thoughts on them. Tags like `rough`, `growing` and `developed` will mark how evolved and "complete" I feel a note is.
-
-Some notes might have preambles stating the [[notes/Assumed audience]] and [[notes/Epistemic status]] of the note. These are intended to provide context on my thinking around the note.
+Across the site you will find notes that are newer, some I only had some vague initial thoughts about. Other notes I might have returned to, added new sources, phrased things better, or had new thoughts on them.
 
 ## Actively tended
 
 Currently I'm regularly coming back to these notes:
  
-- [[notes/The Manager's Toolkit]]
-- [[notes/Technology only matters when it enables new UX]]
+- [[notes/Management]]
+
 
 ---
 

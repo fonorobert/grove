@@ -1,7 +1,5 @@
 ---
 title: "Technology only matters when it enables new UX"
-tags:
-- rough
 ---
 
 
