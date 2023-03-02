@@ -1,6 +1,6 @@
 ---
 title: "secondthought notes"
-enableToc: true
+enableToc: false
 ---
 
 ## Welcome!
