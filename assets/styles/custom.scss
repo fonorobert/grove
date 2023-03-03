@@ -28,7 +28,7 @@
 }
 
 article a[href^="http"]:where(:not([href*="secondthought.media/"]))::after{
-    content: "︎⬈";
+    content: "︎↗";
 }
 
 img a::after{
