@@ -27,9 +27,9 @@
   --highlighted: #574010;
 }
 
-//article a[href^="http"]:where(:not([href*="secondthought.media/"]))::after{
-//    content: "︎↗";
-//}
+article a[href^="http"]:where(:not([href*="secondthought.media/"]))::after{
+    content: "︎↗";
+}
 
 //img a::after{
 //    content: "" !important;
