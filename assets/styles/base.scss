@@ -190,6 +190,9 @@ article {
   }
 
   & a {
+    &[href^="http"]:where(:not([href*="secondthought.media/"]))::after{
+        content: "︎↗";
+    }
     font-weight: 600;
 
     &.internal-link {
