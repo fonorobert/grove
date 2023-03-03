@@ -6,6 +6,8 @@ title: "Management"
 
 few simple techniques make most of the difference because of [[notes/The 80-20 Rule]]
 
+A good checklist for some questions a project manager needs to answer: [Project management map — Gordon Brander](https://gordonbrander.com/pattern/project-management-map/)
+
 ## What are a managers tools?
 
 managers work with people, so a manager's tools are people focused.
